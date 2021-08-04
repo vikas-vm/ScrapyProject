@@ -7,6 +7,6 @@ Step-3: Activate virtual environment
   (Linux: source env/bin/activate
    Windows: env\scripts\activate)
 
-Step-4: Install requirements from requirements.txt (pip install -r requirements.txt)\
+Step-4: Install requirements from requirements.txt (pip install -r requirements.txt)
 
 Step-5: Run command to crawl: scrapy crawl delhi_covid
