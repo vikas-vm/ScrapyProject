@@ -1,0 +1,162 @@
+1628058628322	geckodriver	INFO	geckodriver 0.20.1
+1628058628327	geckodriver	INFO	Listening on 127.0.0.1:35643
+1628059072676	geckodriver	INFO	geckodriver 0.20.1
+1628059072682	geckodriver	INFO	Listening on 127.0.0.1:34743
+1628059073772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Iq1LJTsrqU4v"
+
+(firefox:135110): Gtk-WARNING **: 12:07:53.862: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1628059074294	Marionette	INFO	Marionette enabled
+1628059074419	Marionette	TRACE	Received observer notification toplevel-window-ready
+
+(/usr/lib/firefox/firefox:135202): Gtk-WARNING **: 12:07:54.751: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:135212): Gtk-WARNING **: 12:07:54.876: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:135110): GLib-GIO-WARNING **: 12:07:55.292: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1628059075775	Marionette	TRACE	Received observer notification marionette-startup-requested
+1628059075776	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1628059075826	Marionette	TRACE	All scripts recorded.
+1628059075826	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1628059075827	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1628059075827	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1628059075829	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1628059075829	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1628059075829	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1628059075829	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1628059075829	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1628059075830	Marionette	DEBUG	Setting recommended pref extensions.getAddons.discovery.api_url to data:, 
+1628059075830	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1628059075830	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1628059075832	Marionette	INFO	Listening on port 42717
+1628059075832	Marionette	DEBUG	Marionette is listening
+
+(/usr/lib/firefox/firefox:135300): Gtk-WARNING **: 12:07:55.890: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1628059075897	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:38396
+1628059075905	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1628059075906	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:181: ... t@chrome://marionette/content/server.js:254:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:504:20\n"},null]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1628059155522	geckodriver	INFO	geckodriver 0.20.1
+1628059155528	geckodriver	INFO	Listening on 127.0.0.1:36501
+1628059156629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wz38jbDG53W3"
+
+(firefox:135498): Gtk-WARNING **: 12:09:16.719: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1628059157137	Marionette	INFO	Marionette enabled
+1628059157248	Marionette	TRACE	Received observer notification toplevel-window-ready
+
+(/usr/lib/firefox/firefox:135588): Gtk-WARNING **: 12:09:17.586: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:135597): Gtk-WARNING **: 12:09:17.704: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:135498): GLib-GIO-WARNING **: 12:09:18.010: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1628059158560	Marionette	TRACE	Received observer notification marionette-startup-requested
+1628059158560	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1628059158601	Marionette	TRACE	All scripts recorded.
+1628059158602	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1628059158602	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1628059158603	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1628059158606	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1628059158606	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1628059158606	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1628059158606	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1628059158606	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1628059158607	Marionette	DEBUG	Setting recommended pref extensions.getAddons.discovery.api_url to data:, 
+1628059158607	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1628059158607	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1628059158609	Marionette	INFO	Listening on port 43729
+1628059158609	Marionette	DEBUG	Marionette is listening
+1628059158655	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:48862
+
+(/usr/lib/firefox/firefox:135704): Gtk-WARNING **: 12:09:18.657: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1628059158668	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1628059158669	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:181: ... t@chrome://marionette/content/server.js:254:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:504:20\n"},null]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1628059390594	geckodriver	INFO	geckodriver 0.20.1
+1628059390599	geckodriver	INFO	Listening on 127.0.0.1:53741
+1628059391697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5XWWy6Qn2cJp"
+
+(firefox:136215): Gtk-WARNING **: 12:13:11.784: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1628059392208	Marionette	INFO	Marionette enabled
+1628059392318	Marionette	TRACE	Received observer notification toplevel-window-ready
+
+(/usr/lib/firefox/firefox:136306): Gtk-WARNING **: 12:13:12.648: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:136315): Gtk-WARNING **: 12:13:12.759: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:136215): GLib-GIO-WARNING **: 12:13:13.065: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1628059393626	Marionette	TRACE	Received observer notification marionette-startup-requested
+1628059393627	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1628059393668	Marionette	TRACE	All scripts recorded.
+1628059393668	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1628059393669	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1628059393669	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1628059393671	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1628059393672	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1628059393672	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1628059393672	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1628059393672	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1628059393672	Marionette	DEBUG	Setting recommended pref extensions.getAddons.discovery.api_url to data:, 
+1628059393672	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1628059393673	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1628059393675	Marionette	INFO	Listening on port 39787
+1628059393675	Marionette	DEBUG	Marionette is listening
+1628059393719	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:56186
+
+(/usr/lib/firefox/firefox:136403): Gtk-WARNING **: 12:13:13.727: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1628059393730	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1628059393730	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:181: ... t@chrome://marionette/content/server.js:254:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:504:20\n"},null]
+1628059457620	Marionette	DEBUG	Closed connection 0
+1628059457751	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1628059457751	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1628059457751	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1628059457752	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1628059457753	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1628059457753	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1628059457753	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1628059457753	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1628059457753	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1628059457753	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.discovery.api_url
+1628059457753	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1628059457753	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1628059457753	Marionette	INFO	Stopped listening on port 39787
+1628059457754	Marionette	DEBUG	Marionette stopped listening
+1628059461684	geckodriver	INFO	geckodriver 0.20.1
+1628059461692	geckodriver	INFO	Listening on 127.0.0.1:46083
+1628059462786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FrerHuRloNw6"
+
+(firefox:136509): Gtk-WARNING **: 12:14:22.872: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1628059463268	Marionette	INFO	Marionette enabled
+1628059463377	Marionette	TRACE	Received observer notification toplevel-window-ready
+
+(/usr/lib/firefox/firefox:136601): Gtk-WARNING **: 12:14:23.695: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:136611): Gtk-WARNING **: 12:14:23.814: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:136509): GLib-GIO-WARNING **: 12:14:24.156: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1628059464723	Marionette	TRACE	Received observer notification marionette-startup-requested
+1628059464723	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1628059464758	Marionette	TRACE	All scripts recorded.
+1628059464759	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1628059464759	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1628059464760	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1628059464763	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1628059464765	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1628059464765	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1628059464765	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1628059464766	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1628059464766	Marionette	DEBUG	Setting recommended pref extensions.getAddons.discovery.api_url to data:, 
+1628059464767	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1628059464767	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1628059464770	Marionette	INFO	Listening on port 36167
+1628059464770	Marionette	DEBUG	Marionette is listening
+1628059464808	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:37970
+1628059464824	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1628059464824	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:181: ... t@chrome://marionette/content/server.js:254:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:504:20\n"},null]
+
+(/usr/lib/firefox/firefox:136694): Gtk-WARNING **: 12:14:24.825: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
